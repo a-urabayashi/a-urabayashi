@@ -2,7 +2,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=a-urabayashi&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **a-urabayashi/a-urabayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
