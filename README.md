@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-urabayashi&show_icons=true&theme=radical)
 
 <p align="center">
   <a href="https://skillicons.dev">
