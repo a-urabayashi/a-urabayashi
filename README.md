@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://a-urabayashi-git-main-aurabayashis-projects.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
+![](a-urabayashi-ctmhbgnnx-aurabayashis-projects.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
 
 ## Tech Stack 👋
 <p align="center">
