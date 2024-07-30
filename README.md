@@ -2,7 +2,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-urabayashi&theme=2077)
 
-
 ## Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
