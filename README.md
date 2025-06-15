@@ -1,7 +1,8 @@
 ## Hi there 👋
+Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformatio  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-urabayashi&theme=2077)
-Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation
+
 
 ## Tech Stack 💻
 <p align="center">
