@@ -8,7 +8,7 @@ Specialized in healthcare data platforms and LLM-powered analytics.
 ## 💼 Professional Background
 - **Ship Consulting**: Led digital transformation for clinics
 - **Amazon Japan**: Business SalesOps Manager
-- Have built data platform POC targeting for healthcare facilities
+- Have experiences to building data platform POC targeting for healthcare facilities
 
 ## 🛠️ Tech Stack
 - **Languages**: Python (5 years), TypeScript
