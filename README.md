@@ -32,7 +32,7 @@ Specialized in healthcare data platforms and LLM-powered analytics.
 ## Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,js, git,django,docker,anaconda,arch,aws,githubactions,linux,materialui,nginx,postgres,terraform,postman,raspberrypi,react,redux,regex,sqlite,selenium,terraform,vscode,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,js,git,django,docker,anaconda,arch,aws,githubactions,linux,materialui,nginx,postgres,terraform,postman,raspberrypi,react,redux,regex,sqlite,selenium,terraform,vscode,ubuntu" />
   </a>
 </p>
 
