@@ -6,7 +6,7 @@ Data & Software Engineer with 9 years of experience in business consulting and 5
 Specialized in healthcare data platforms and LLM-powered analytics.
 
 ## 💼 Professional Background
-- **Funai Consulting**: Led digital transformation for clinics
+- **Funai Consulting**: Led digital transformation for clinics and developed a revenue performance data platform.
 - **Amazon Japan**: Business SalesOps Manager
 - Have experiences to building data platform POC targeting for healthcare facilities
 
