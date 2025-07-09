@@ -11,10 +11,11 @@ Specialized in healthcare data platforms and LLM-powered analytics.
 - Have experiences to building data platform POC targeting for healthcare facilities
 
 ## 🛠️ Tech Stack
-- **Languages**: Python (5 years), TypeScript
-- **AI/ML**: LangChain, OpenAI API, pgvector
-- **Infrastructure**: AWS, Docker, Terraform
-- **Data**: PostgreSQL, Redis, Apache Airflow
+- **Backend**: Python, Django, FastAPI
+- **Frontend**: TypeScript, React
+- **Data**: BigQuery, RedShift, Airflow, PostgreSQL
+- **Cloud**: Cloud: AWS, Docker, Terraform
+- **Exploring**: Snowflake, Apache Spark, LangChain, Vector DBs, RAG
 
 ## 🏆 Key Projects
 - **Healthcare Data Platform**: Scalable multi-tenant system for future expansion to over 50,000 Japanese Clinics
