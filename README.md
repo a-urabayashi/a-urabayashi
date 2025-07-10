@@ -1,14 +1,16 @@
 ## Hi there 👋
-Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation  
+Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation
 
 ## 🚀 About Me
-Data & Software Engineer with 9 years of experience in business consulting. 
-Specialized in healthcare data platforms and LLM-powered analytics.
+I'm a Data & Software Engineer with 9 years of experience in business consulting, including 5 years focused on data engineering and full-stack development. Specialized in healthcare data platforms, KPI dashboards, and LLM-powered analytics.
+
 
 ## 💼 Professional Background
-- **Funai Consulting**: Led digital transformation for clinics and developed a revenue performance data platform.
-- **Amazon Japan**: Business SalesOps Manager
-- Have experiences to building data platform POC targeting for healthcare facilities
+• **Funai Consulting Inc.** – Led digital transformation for clinics and developed a full-stack revenue performance platform (Python, Airflow, GCP, React, Django).  
+• **Amazon Japan** – Sales Ops Manager for Amazon Business, built dashboards for 100+ AEs, contributed to 20% YoY growth.  
+• Built data platform PoCs for healthcare groups using Apach Spark, Snowflake, and modern orchestration tools.
+
+🌱 Currently exploring roles at the intersection of technology and business impact (Solution Engineering / Analytics Platforms / AI-powered SaaS).
 
 ## 🛠️ Tech Stack
 - **Backend**: Python, Django, FastAPI
