@@ -2,7 +2,7 @@
 Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation  
 
 ## 🚀 About Me
-Data & Software Engineer with 9 years of experience in business consulting and 5 years in software development. 
+Data & Software Engineer with 9 years of experience in business consulting. 
 Specialized in healthcare data platforms and LLM-powered analytics.
 
 ## 💼 Professional Background
