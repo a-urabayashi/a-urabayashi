@@ -23,11 +23,7 @@ I'm a Data & Software Engineer with 9 years of experience in business consulting
 - **Healthcare Data Platform**: Scalable multi-tenant system for future expansion to over 50,000 Japanese Clinics
 - **LLM Business Analytics**: Natural language querying for business metrics
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-urabayashi&show_icons=true)
-
-
-  
+## 📈 GitHub Stats  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-urabayashi&theme=2077)
 
