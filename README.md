@@ -1,8 +1,8 @@
 ## Hi there 👋
-Product-Focused Data & Software Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation
+Forward Deployed Engineer @Tailor(YC S22) | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation
 
 ## 🚀 About Me
-I'm a Data & Software Engineer with 9 years of experience in business consulting, including 5 years focused on data engineering and full-stack development. Specialized in healthcare data platforms, KPI dashboards, and LLM-powered analytics.
+I'm a Forward Deployed Engineer with 9 years of experience in business consulting, including 5 years focused on data engineering and full-stack development. Specialized in healthcare data platforms, KPI dashboards, and LLM-powered analytics.
 
 
 ## 💼 Professional Background
