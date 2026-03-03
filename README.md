@@ -10,8 +10,6 @@ I'm a Forward Deployed Engineer with 9 years of experience in business consultin
 • **Amazon Japan** – Sales Ops Manager for Amazon Business, built dashboards for 100+ AEs, contributed to 20% YoY growth.  
 • Built data platform PoCs for healthcare groups using Apach Spark, Snowflake, and modern orchestration tools.
 
-🌱 Currently exploring roles at the intersection of technology and business impact (Solution Engineering / Analytics Platforms / AI-powered SaaS).
-
 ## 🛠️ Tech Stack
 - **Backend**: Python, Django, FastAPI
 - **Frontend**: TypeScript, React
