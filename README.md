@@ -9,6 +9,7 @@ I'm a Forward Deployed Engineer with 9 years of experience in business consultin
 • **Funai Consulting Inc.** – Led digital transformation for clinics and developed a full-stack revenue performance platform (Python, Airflow, GCP, React, Django REST Framework).  
 • **Amazon Japan** – Sales Ops Manager for Amazon Business, built dashboards for 100+ AEs, contributed to 20% YoY growth.  
 • Built data platform PoCs for healthcare groups using Apach Spark, Snowflake, and modern orchestration tools.
+• **Tailor** - Forward Deployed Engineer
 
 ## 🛠️ Tech Stack
 - **Backend**: Python, Django, FastAPI
