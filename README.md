@@ -1,7 +1,5 @@
 # About
 
-Software, data, and AI engineer based in Tokyo. My work has included business consulting, data engineering, and full-stack development, with a focus on healthcare and business systems.
-
 ## Experience
 
 - **Funai Consulting** — Digital transformation and software development for healthcare clients.
