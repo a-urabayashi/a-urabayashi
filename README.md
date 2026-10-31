@@ -1,35 +1,22 @@
-## Hi there 👋
-Software, Data & AI Engineer | Built Scalable ETL Pipelines & Web Apps from Scratch | Ex-Amazon | Consulting → Tech Transformation
+# Arata Urabayashi
 
-## 🚀 About Me
-I'm a Software, Data & AI Engineer with 9 years of experience in business consulting, including 5 years focused on data engineering and full-stack development. Specialized in healthcare data platforms, KPI dashboards, and LLM-powered analytics.
+Software, data, and AI engineer based in Tokyo. My work has included business consulting, data engineering, and full-stack development, with a focus on healthcare and business systems.
 
+## Experience
 
-## 💼 Professional Background
-• **Funai Consulting Inc.** – Led digital transformation for clinics and developed a full-stack revenue performance platform (Python, Airflow, GCP, React, Django REST Framework).  
-• **Amazon Japan** – Sales Ops Manager for Amazon Business, built dashboards for 100+ AEs, contributed to 20% YoY growth.  
-• Built data platform PoCs for healthcare groups using Apache Spark, Snowflake, and modern orchestration tools.  
+- **Funai Consulting** — Digital transformation and software development for healthcare clients.
+- **Amazon Japan** — Sales operations and reporting for Amazon Business.
+- **Independent work** — Data platforms and analytics tools for healthcare organizations.
 
-## 🛠️ Tech Stack
-- **Backend**: Python, Django, FastAPI
-- **Frontend**: TypeScript, React
-- **Data**: BigQuery, RedShift, Airflow, PostgreSQL
-- **Cloud**: Cloud: AWS, Docker, Terraform
-- **Exploring**: Snowflake, Apache Spark, LangChain, Vector DBs, RAG
+## Areas of work
 
-## 🏆 Key Projects
-- **Healthcare Data Platform**: Scalable multi-tenant system for future expansion to over 50,000 Japanese Clinics
-- **LLM Business Analytics**: Natural language querying for business metrics
+Data platforms, business analytics, healthcare systems, and applied AI.
 
-## 📈 GitHub Stats  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-urabayashi&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-urabayashi&theme=2077)
+## Tools
 
+Python, TypeScript, React, Django, Airflow, PostgreSQL, Spark, Snowflake, AWS, GCP, Docker.
 
-## Tech Stack 💻
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,js,git,django,docker,anaconda,arch,aws,githubactions,linux,materialui,nginx,postgres,terraform,postman,raspberrypi,react,redux,regex,sqlite,selenium,vscode,ubuntu" />
-  </a>
-</p>
+## Projects
 
+- Healthcare data platform
+- Business analytics with natural language queries
